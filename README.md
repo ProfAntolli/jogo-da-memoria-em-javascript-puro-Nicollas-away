@@ -1,3 +1,3 @@
-Fórum da disciplina desenvolvimento e programação em Javascript
+Fórum da disciplina Desenvolvimento em Javascript
 
 Não consegui enviar as pastas, então compactei com o Winrar o meu jogo.
